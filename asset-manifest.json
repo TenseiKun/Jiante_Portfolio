@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jiante_Portfolio/static/css/main.b04339ed.css",
+    "main.js": "/Jiante_Portfolio/static/js/main.2ceba738.js",
+    "static/media/backgroundMobile.jpg": "/Jiante_Portfolio/static/media/backgroundMobile.991e527db58f8c04fd3d.jpg",
+    "static/media/Rubik.ttf": "/Jiante_Portfolio/static/media/Rubik.a41b3ae4e67200950946.ttf",
+    "static/media/Roboto.ttf": "/Jiante_Portfolio/static/media/Roboto.4afbed674a5252ead176.ttf",
+    "static/media/Roboto-Light.ttf": "/Jiante_Portfolio/static/media/Roboto-Light.839cb7309f46fed11436.ttf",
+    "static/media/background.jpg": "/Jiante_Portfolio/static/media/background.407e0ec7ff2ce3d72eff.jpg",
+    "static/media/slick.svg": "/Jiante_Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Jiante_Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Jiante_Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Jiante_Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Jiante_Portfolio/index.html",
+    "main.b04339ed.css.map": "/Jiante_Portfolio/static/css/main.b04339ed.css.map",
+    "main.2ceba738.js.map": "/Jiante_Portfolio/static/js/main.2ceba738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b04339ed.css",
+    "static/js/main.2ceba738.js"
+  ]
+}
